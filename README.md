@@ -4,6 +4,8 @@ makecode 的 NTC温度传感器 microbit 软件包
 作者: shaoziyang  
 日期: 2018.Mar  
 
+![](https://raw.githubusercontent.com/microbit-makecode-packages/NTC_cn/master/icon.png)
+
 
 ## 使用方法
 
@@ -11,7 +13,9 @@ makecode 的 NTC温度传感器 microbit 软件包
 
 https://github.com/microbit-makecode-packages/NTC_cn  
 
-搜索后就可以添加并使用本软件包了。
+搜索后就可以添加并使用本软件包了。  
+
+![](https://raw.githubusercontent.com/microbit-makecode-packages/NTC_cn/master/sketch.jpg)
 
 
 ## API
