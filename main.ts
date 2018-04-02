@@ -77,7 +77,7 @@ let table = table_B3380
 //% weight=100 color=#10F080 icon="\uf2c8" block="NTC 温度传感器"
 namespace NTCSenor {
     /**
-     * get NTC Temperature
+     * 将 NTC 的 ADC 数据转换为温度
      * @param adc is ADC convert value, eg: 256
      */
     //% blockId="NTCSenor_GET" block="获取温度 %adc"
@@ -91,7 +91,7 @@ namespace NTCSenor {
     }
 
     /**
-     * set NTC B value
+     * 设置 NTC 传感器的温度系数 B
      * @param NTC B value, eg: NTC_B.B3380
      */
     //% blockId="NTCSenor_SET" block="设置温度系数 B %B"
