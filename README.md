@@ -20,11 +20,11 @@ https://github.com/microbit-makecode-packages/NTC_cn
 
 ## API
 
-- **设置系数**(B: NTC_B)  
+- **set**(B: NTC_B)  
 B 是 NTC 传感器的系数，这里可以选择 3380 或 3950。  
 
-- **获取温度**(d: number)  
-d 是模拟输入转换后的数值，返回值是按照摄氏度为单位的温度。  
+- **Temperature**(adc: number)  
+adc 是模拟输入转换后的数值，返回值是按照摄氏度为单位的温度。  
 
 ## 演示
 
