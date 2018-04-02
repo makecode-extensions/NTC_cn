@@ -92,7 +92,7 @@ namespace NTCSenor {
 
     /**
      * 设置 NTC 传感器的温度系数 B
-     * @param NTC B value, eg: NTC_B.B3380
+     * @param B is NTC B value, eg: NTC_B.B3380
      */
     //% blockId="NTCSenor_SET" block="设置温度系数 B %B"
     //% weight=100 blockGap=8
